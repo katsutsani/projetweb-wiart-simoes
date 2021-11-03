@@ -1,0 +1,60 @@
+body
+{
+	margin: 0px;
+
+	padding: 5px;
+
+	padding-left: 10%;
+	padding-right: 10%;
+
+	font-family: "EB Garamond";
+}
+
+.panel
+{
+	background: #3C3C3C;
+	color: white;
+
+	padding: 2em;
+	margin: 5px;
+}
+
+.header
+{
+	font-size: 48px;
+	text-align: center;
+
+	padding: 0.5em;
+}
+
+.article
+{
+	display: flex;
+	justify-content: space-around;
+}
+
+.article .article-elem
+{
+	
+
+	
+}
+
+.article .content
+{
+	width: 100%;
+}
+
+.article .nav
+{
+	width: 30%;
+}
+
+.article .nav a
+{
+	display: block;
+	margin-bottom: 1em;
+
+	color: rgb( 255, 80, 40 );
+	text-decoration: none;
+}
